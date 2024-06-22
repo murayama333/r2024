@@ -16,20 +16,20 @@
     - [日付の操作](docs/14.md)
     - [apply関数](docs/11.md)
     - [ファイルの入出力](docs/13.md)
-* Tidyverse
-    - tibble
-    - dplyr
-    - ggplot2
-    - 参考：stringr
-    - 参考：purrr
-    - 参考：forcats
-    - 参考：readr
-    - 参考：tidyr
-    - 参考：Ex - Tidyverseの実践1
-    - 参考：Ex - Tidyverseの実践2
-    - 参考：Ex - Tidyverseの実践3
-    - 参考：Ex - Tidyverseの実践4
-    - 参考：lubridate
+* [Tidyverse](docs/201.md)
+    - [tibble](docs/202.md)
+    - [dplyr](docs/203.md)
+    - [ggplot2](docs/204.md)
+    - [参考：stringr](docs/207.md)
+    - [参考：purrr](docs/209.md)
+    - [参考：forcats](docs/208.md)
+    - [参考：readr](docs/205.md)
+    - [参考：tidyr](docs/206.md)
+    - [参考：Ex - Tidyverseの実践1](docs/210.md)
+    - [参考：Ex - Tidyverseの実践2](docs/211.md)
+    - [参考：Ex - Tidyverseの実践3](docs/212.md)
+    - [参考：Ex - Tidyverseの実践4](docs/213.md)
+    - [参考：lubridate](docs/214.md)
 ---
 
 * 記述統計
@@ -48,19 +48,19 @@
         - [クロス集計表](docs/111.md)
 
 * 確率
-    - 場合の数
-    - 標本空間と事象
-    - 確率
-    - 加法定理
-    - 条件付き確率と乗法定理
-    - ベイズの定理
-    - 確率変数
-    - 離散型確率変数
-    - ベルヌーイ分布
-    - 二項分布
-    - ポアソン分布
-    - 連続型確率変数
-    - 正規分布
+    - [場合の数](docs/301.md)
+    - [標本空間と事象](docs/302.md)
+    - [確率](docs/303.md)
+    - [加法定理](docs/304.md)
+    - [条件付き確率と乗法定理](docs/305.md)
+    - [ベイズの定理](docs/306.md)
+    - [確率変数](docs/307.md)
+    - [離散型確率変数](docs/308.md)
+    - [ベルヌーイ分布](docs/309.md)
+    - [二項分布](docs/310.md)
+    - [ポアソン分布](docs/311.md)
+    - [連続型確率変数](docs/312.md)
+    - [正規分布](docs/116.md)
 * 推測統計
     - 母集団と標本
     - 点推定
